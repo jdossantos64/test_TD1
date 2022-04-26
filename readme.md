@@ -5,11 +5,11 @@ This will be my home page
  - [ x] 1. Local Repository 
   - [x ] 1.1) Create your first commit with this Readme
   - [x ] 1.2) Amend the previous commit to check the first and second box.
-- [ ] 2. Linear History 
-  - [ ] 2.1) First Commits : Index.html
-  - [ ] 2.1.1) Create a bare index.html (just the basic structure with no content)
-  - [ ] 2.1.2) Add and commit some elements about you (Your name, a short bio)
-  - [ ] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
+- [ x] 2. Linear History 
+  - [x ] 2.1) First Commits : Index.html
+  - [ x] 2.1.1) Create a bare index.html (just the basic structure with no content)
+  - [ x] 2.1.2) Add and commit some elements about you (Your name, a short bio)
+  - [ x] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
 - [ ] 3. Unlinear History 
   - [ ] 3.1) First Branch : Style
     - [ ] 3.1.1) Create a branch name style and check it out
