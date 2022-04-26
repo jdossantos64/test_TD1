@@ -11,15 +11,15 @@ This will be my home page
   - [ x] 2.1.2) Add and commit some elements about you (Your name, a short bio)
   - [ x] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
 - [ ] 3. Unlinear History 
-  - [ ] 3.1) First Branch : Style
-    - [ ] 3.1.1) Create a branch name style and check it out
-    - [ ] 3.1.2) Create an empty style.css file and commit it.
-    - [ ] 3.1.3) Add some style to your page and commit them
-  - [ ] 3.2) First fast-forward Merge
-    - [ ] 3.2.1) Go back to the main Branch
-    - [ ] 3.2.2) Merge Style into main ( fast-forward )
-    - [ ] 3.2.3) Include the css into your html
-    - [ ] 3.2.4) Commit the new index.html
+  - [ x] 3.1) First Branch : Style
+    - [x ] 3.1.1) Create a branch name style and check it out
+    - [ x] 3.1.2) Create an empty style.css file and commit it.
+    - [ x] 3.1.3) Add some style to your page and commit them
+  - [ x] 3.2) First fast-forward Merge
+    - [x ] 3.2.1) Go back to the main Branch
+    - [ x] 3.2.2) Merge Style into main ( fast-forward )
+    - [ x] 3.2.3) Include the css into your html
+    - [ x] 3.2.4) Commit the new index.html
   - [ ] 3.3. First Merge-Commit
     - [ ] 3.3.1) checkout the branch style
     - [ ] 3.3.2) Add some more style and commit
